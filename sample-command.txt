@@ -1,0 +1,19 @@
+Newman Commands
+------------------------
+npm install -g newman(install newman)
+newman run subscription.json
+newman run -h (displys all options for newman)
+
+-------------------------------------
+how to set test snippets in postman
+ELK stack dislayed on kubana
+
+Git commands
+---------------------------------------------------------------------------------
+git init
+git add .
+git commit -m 'HVJ Transaction Subscription API'
+git push origin master
+git clone 
+git status
+git fork
